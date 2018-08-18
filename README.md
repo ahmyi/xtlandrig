@@ -30,4 +30,5 @@ adb push xtlandrig /data/local/tmp/xtlandrig
     * Pool
     * XTL Address
     * Password
+    
     Execute the binary ```./xtlandrig -o stratum+tcp://stratum.xtlpool.com -u <xtl_address> -p x```
