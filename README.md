@@ -1,5 +1,5 @@
 # XTLANDRIG
-Stellite Cash (XTL) Android XMRIG. An android cpu miner. This is beta release of binaries compiled from stellitecoin/xtlandrig for public testing before original release version. Please contact us via discord https://discord.gg/DVPJ5uD for any issues. The fee will be 0% for miners for now this does not include pool fees.
+Stellite Cash (XTL) Android XMRIG. An android cpu miner. This is beta release of binaries compiled from stellitecoin/xtlandrig for public testing before original release version. Please contact us via discord https://discord.gg/DVPJ5uD for any issues. The fee will be 5% for miners for now this does not include pool fees.
 
 ## Pools
 Below are pools that have low difficulty which is appropriate for mobile mining (less than 1000 difficulty).
