@@ -8,7 +8,7 @@ Below are pools that have low difficulty which is appropriate for mobile mining 
 |----------------------------------|---------------------|
 | stratum.xtlpool.com:8888 | 1000 |
 | dearmon.zone:8988 | 50 |
-| xtl.pool.gntl.co.uk: | 1000 |
+| xtl.pool.gntl.co.uk:2222 | 1000 |
 | stellite.almsoft.net:3333 | 1000 |
 | xtl.superpools.online:33333 | 500 |
 | Pool.XTL.CryptoPool.Space | 500 |
