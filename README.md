@@ -23,8 +23,8 @@ Below are pools that have low difficulty which is appropriate for mobile mining 
  * armeabi-v7a
  
  2. Install adb. More info on adb and to install
- https://developer.android.com/studio/command-line/adb
- https://www.xda-developers.com/install-adb-windows-macos-linux/
+ * https://developer.android.com/studio/command-line/adb
+ * https://www.xda-developers.com/install-adb-windows-macos-linux/
  
  3. Once you have adb installed and your android plugged onto your computer. Check if your device is connected. You can list connected devices by 
  ```
